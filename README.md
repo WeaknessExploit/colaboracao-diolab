@@ -1,6 +1,4 @@
-Git Collaboration Lab
-
-Laboratório prático para aprender Git, GitHub e colaboração em projetos de software.
+Laboratório prático do projeto DIO- GitHub.
 
 Objetivos
 
