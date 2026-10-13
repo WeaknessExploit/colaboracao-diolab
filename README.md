@@ -1,6 +1,16 @@
+DioLab entregua do proejto Dio- GitHub
+
+
 Laboratório prático do projeto DIO- GitHub.
 
 Objetivos
+
+exemplos de comandos git
+
+1. git status 
+  - Mostra o status do repo atual e ultimas mudanças 
+2. add e commit
+  - comandos do fluxo para upload de arquivos e ou modificaçoes
 
 * Aprender a trabalhar com branches.
 * Registrar alterações usando commits.
