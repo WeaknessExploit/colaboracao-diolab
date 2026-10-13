@@ -1,4 +1,7 @@
-Laboratório prático entregua do proejto Dio- GitHub
+DioLab entregua do proejto Dio- GitHub
+
+
+Laboratório prático do projeto DIO- GitHub.
 
 Objetivos
 
